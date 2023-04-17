@@ -1,8 +1,0 @@
-{
-    "workbench.colorCustomizations": {
-        "activityBar.background": "#2B1F4E",
-        "titleBar.activeBackground": "#3C2B6D",
-        "titleBar.activeForeground": "#FCFBFD"
-    },
-    "terraform.experimentalFeatures.prefillRequiredFields": true
-}
